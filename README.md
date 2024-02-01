@@ -1,2 +1,2 @@
 # Dsainjava
-In this repository i implement the Dsa concept(like array, linkedlist, stack) using Java
+In This Repository I Implement The Dsa Concept(Like Array, Linkedlist, Stack) Using Java.
